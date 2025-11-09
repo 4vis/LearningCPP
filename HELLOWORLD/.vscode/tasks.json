@@ -7,6 +7,16 @@
             "args": [
                 "-fdiagnostics-color=always",
                 "-g",
+                "-ggdb",
+                "-O2",
+                "-DNDEBUG",
+                "-Wall",
+                "-Weffc++",
+                "-Wextra",
+                "-Wconversion",
+                "-Wsign-conversion",
+                "-Werror",
+                "-std=c++23",
                 "${file}",
                 "-o",
                 "${fileDirname}/${fileBasenameNoExtension}"
