@@ -5,4 +5,4 @@ No LLM assistance btw, pure learning only.
 
 The current meme thats going around is 6,7. Which I still don't understand but 6, 7.
 
-Learing everything from https://learncpp.com
+Learning everything from https://learncpp.com
